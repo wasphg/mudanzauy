@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Generic - Phantom by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script type="text/javascript" src="detailscript.js"></script>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+						</div>
+					</header>
+			
+					<div id="main">
+						<div class="inner">
+							  <div id="product-detail-container"></div>
+							 <script>
+							 	const urlParams = new URLSearchParams(window.location.search);
+							  	const productId = urlParams.get('productId');
+							 	displayDetailProduct(productId);
+							 </script>
+					
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">							
+							<section>
+								<h2>Lo quiero</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>								
+								</ul>
+							</section>					
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
