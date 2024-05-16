@@ -303,6 +303,7 @@ function createProductCard(product) {
       const productImage = document.createElement("img");
       productImage.src = myImageUrl;  
       productImage.style = "width: 80%";
+      productImage.loading = "lazy";
       mySpan.appendChild(productImage);     
       myDiv.appendChild(mySpan);
     });
