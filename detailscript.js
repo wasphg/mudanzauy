@@ -234,7 +234,7 @@ const data_products = {
     myDiv.classList.add("inner")
 
     const articleContainer = document.createElement("h1")
-    articleContainer.textContent = productFound.Info.title
+    articleContainer.textContent = productFound.Info.title+": "+productFound.Info.price;
 
 
     myDiv.appendChild(articleContainer);    
@@ -251,7 +251,7 @@ const data_products = {
     });
     
     const myDescription = document.createElement("p");
-    myDescription.textContent = productFound.Info.description;
+    myDescription.textContent = productFound.Info.description +": "+productFound.Info.price;
     
     myDiv.appendChild(myDescription);    
 
