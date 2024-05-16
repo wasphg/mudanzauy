@@ -302,7 +302,7 @@ function createProductCard(product) {
       mySpan.classList.add("image main")
       const productImage = document.createElement("img");
       productImage.src = myImageUrl;  
-      productImage.style = "width: 80%";
+      productImage.style = "width: 60%";
       productImage.loading = "lazy";
       mySpan.appendChild(productImage);     
       myDiv.appendChild(mySpan);
