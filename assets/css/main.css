@@ -2599,7 +2599,7 @@ input, select, textarea {
 			}
 
 				.tiles article > .image img {
-					display: block;
+					/*display: block;*/
 					width: 100%;
 				}
 
@@ -2610,7 +2610,7 @@ input, select, textarea {
 					-ms-transition: background-color 0.2s ease, opacity 0.2s ease;
 					transition: background-color 0.2s ease, opacity 0.2s ease;
 					content: '';
-					display: block;
+					/*display: block;*/
 					position: absolute;
 					top: 0;
 					left: 0;
