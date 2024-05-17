@@ -43,7 +43,7 @@ const data_products = {
       {
         Info: {
           id: 5,
-          mainImage: "images/echeveria_laui_1.jpg",
+          mainImage: "images/echeveria_laui_1_main.jpg",
           images: ["images/echeveria_laui_1.jpg", "images/echeveria_laui_2.jpg"],
           title: "Echeveria Laui + maceta + tierra",
           description: "Echeveria Laui + maceta + tierra",
@@ -53,7 +53,7 @@ const data_products = {
       {
         Info: {
           id: 6,
-          mainImage: "images/begonia_maculata_1.jpg",
+          mainImage: "images/begonia_maculata_1_main.jpg",
           images: ["images/begonia_maculata_1.jpg", "images/begonia_maculata_2.jpg", "images/begonia_maculata_3.jpg", "images/begonia_maculata_4.jpg"],
           title: "Begonia Maculata Grande + maceta + tierra",
           description: "Begonia Maculata grande + maceta + tierra",
@@ -63,7 +63,7 @@ const data_products = {
       {
         Info: {
           id: 7,
-          mainImage: "images/begonia_maculata_2_1.jpg",
+          mainImage: "images/begonia_maculata_2_1_main.jpg",
           images: ["images/begonia_maculata_2_1.jpg", "images/begonia_maculata_2_2.jpg"],
           title: "Begonia Maculata mediana + maceta + tierra",
           description: "Begonia Maculata mediana con flor + maceta + tierra",
@@ -73,7 +73,7 @@ const data_products = {
       {
         Info: {
           id: 8,
-          mainImage: "images/begonia_maculata_4_1.jpg",
+          mainImage: "images/begonia_maculata_4_1_main.jpg",
           images: ["images/begonia_maculata_4_1.jpg", "images/begonia_maculata_4_2.jpg"],
           title: "Begonia Maculata pequeña + maceta + tierra",
           description: "Begonia Maculata pequeña + maceta + tierra",
@@ -83,7 +83,7 @@ const data_products = {
       {
         Info: {
           id: 9,
-          mainImage: "images/begonia_maculata_5_1.jpg",
+          mainImage: "images/begonia_maculata_5_1_main.jpg",
           images: ["images/begonia_maculata_5_1.jpg", "images/begonia_maculata_5_2.jpg", "images/begonia_maculata_5_3.jpg"],
           title: "Begonia Maculata pequeña + maceta + tierra",
           description: "Begonia Maculata pequeña + maceta + tierra",
@@ -93,7 +93,7 @@ const data_products = {
       {
         Info: {
           id: 10,
-          mainImage: "images/begonia_maculata_3_1.jpg",
+          mainImage: "images/begonia_maculata_3_1_main.jpg",
           images: ["images/begonia_maculata_3_1.jpg", "images/begonia_maculata_3_2.jpg","images/begonia_maculata_3_3.jpg", "images/begonia_maculata_3_4.jpg"],
           title: "Begonia Maculata mediana + maceta + tierra",
           description: "Begonia Maculata mediana + maceta + tierra",
@@ -103,7 +103,7 @@ const data_products = {
       {
         Info: {
           id: 11,
-          mainImage: "images/echeveria_beatrice_1.jpg",
+          mainImage: "images/echeveria_beatrice_1_main.jpg",
           images: ["images/echeveria_beatrice_1.jpg", "images/echeveria_beatrice_2.jpg", "images/echeveria_beatrice_3.jpg", "images/echeveria_beatrice_4.jpg"],
           title: "Echeveria Beatrice + maceta + tierra",
           description: "Echeveria Beatrice grande + maceta + tierra",
@@ -113,7 +113,7 @@ const data_products = {
       {
         Info: {
           id: 12,
-          mainImage: "images/echeveria_linda_jane_1_1.jpg",
+          mainImage: "images/echeveria_linda_jane_1_1_main.jpg",
           images: ["images/echeveria_linda_jane_1_1.jpg", "images/echeveria_linda_jane_1_2.jpg", "images/echeveria_linda_jane_1_3.jpg", "images/echeveria_linda_jane_1_4.jpg", "images/echeveria_linda_jane_1_5.jpg"],
           title: "Echeveria Linda Jane (grande) + maceta + tierra",
           description: "Echeveria Linda Jane grande + maceta + tierra",
@@ -123,7 +123,7 @@ const data_products = {
       {
         Info: {
           id: 13,
-          mainImage: "images/echeveria_copahue_1.jpg",
+          mainImage: "images/echeveria_copahue_1_main.jpg",
           images: ["images/echeveria_copahue_1.jpg", "images/echeveria_copahue_2.jpg"],
           title: "Echeveria Copahue + maceta + tierra",
           description: "Echeveria Copahue + maceta + tierra",
@@ -133,7 +133,7 @@ const data_products = {
       {
         Info: {
           id: 14,
-          mainImage: "images/echeveria_valkirye_1.jpg",
+          mainImage: "images/echeveria_valkirye_1_main.jpg",
           images: ["images/echeveria_valkirye_1.jpg", "images/echeveria_valkirye_2.jpg","images/echeveria_valkirye_3.jpg"],
           title: "Echeveria Valkirye grande + maceta + tierra",
           description: "Echeveria Copahue + maceta + tierra",
@@ -143,7 +143,7 @@ const data_products = {
       {
         Info: {
           id: 15,
-          mainImage: "images/dudleya_brittonii_1.jpg",
+          mainImage: "images/dudleya_brittonii_1_main.jpg",
           images: ["images/dudleya_brittonii_1.jpg", "images/dudleya_brittonii_2.jpg"],
           title: "Dudleya Brittonii + maceta + tierra",
           description: "Dudleya Brittonii + maceta + tierra",
@@ -153,7 +153,7 @@ const data_products = {
       {
         Info: {
           id: 16,
-          mainImage: "images/echeveria_lilacina_1.jpg",
+          mainImage: "images/echeveria_lilacina_1_main.jpg",
           images: ["images/echeveria_lilacina_1.jpg", "images/echeveria_lilacina_2.jpg", "images/echeveria_lilacina_3.jpg", "images/echeveria_lilacina_4.jpg"],
           title: "Echeveria Lilacina + maceta + tierra",
           description: "Echeveria Lilacina + maceta + tierra",
@@ -163,7 +163,7 @@ const data_products = {
       {
         Info: {
           id: 17,
-          mainImage: "images/caly_argentea_1.jpg",
+          mainImage: "images/caly_argentea_1_main.jpg",
           images: ["images/caly_argentea_1.jpg", "images/caly_argentea_2.jpg"],
           title: "Echeveria Caly Argentea + maceta + tierra",
           description: "Echeveria Caly Argentea grande + maceta + tierra: $800. Echeveria Caly Argentea pequeña + maceta + tierra: $400",
@@ -173,7 +173,7 @@ const data_products = {
       {
         Info: {
           id: 18,
-          mainImage: "images/echeveria_shaviana_1.jpg",
+          mainImage: "images/echeveria_shaviana_1_main.jpg",
           images: ["images/echeveria_shaviana_1.jpg", "images/echeveria_shaviana_2.jpg"],
           title: "Echeveria Shaviana + maceta + tierra",
           description: "Echeveria Shaviana + maceta + tierra",
@@ -183,7 +183,7 @@ const data_products = {
       {
         Info: {
           id: 19,
-          mainImage: "images/echeveria_shaviana_2_1.jpg",
+          mainImage: "images/echeveria_shaviana_2_1_main.jpg",
           images: ["images/echeveria_shaviana_2_1.jpg", "images/echeveria_shaviana_2_2.jpg"],
           title: "Echeveria Shaviana pequeña + maceta + tierra",
           description: "Echeveria Shaviana pequeña + maceta + tierra",
@@ -193,7 +193,7 @@ const data_products = {
       {
         Info: {
           id: 20,
-          mainImage: "images/cactus_1.jpg",
+          mainImage: "images/cactus_1_main.jpg",
           images: ["images/cactus_1.jpg", "images/cactus_2.jpg"],
           title: "Cactus pequeño + maceta + tierra",
           description: "Cactus pequeño + maceta + tierra",
@@ -203,7 +203,7 @@ const data_products = {
       {
         Info: {
           id: 21,
-          mainImage: "images/graptoveria_lovely_rose_1.jpg",
+          mainImage: "images/graptoveria_lovely_rose_1_main.jpg",
           images: ["images/graptoveria_lovely_rose_1.jpg", "images/graptoveria_lovely_rose_2.jpg"],
           title: "Graptoveria Lovely Rose (varias) + maceta + tierra",
           description: "Graptoveria Lovely Rose (varias) + maceta + tierra",
@@ -213,7 +213,7 @@ const data_products = {
       {
         Info: {
           id: 22,
-          mainImage: "images/suculenta_1.jpg",
+          mainImage: "images/suculenta_1_main.jpg",
           images: ["images/suculenta_1.jpg", "images/suculenta_2.jpg"],
           title: "Suculenta grande + maceta + tierra",
           description: "Suculenta grande + maceta + tierra",
