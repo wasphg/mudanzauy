@@ -279,54 +279,9 @@ function createProductCard(product) {
   });
 
 
+/*const img = document.querySelector('.shimmer');
 
+img.onload = function() {
+  img.classList.add('loaded');
+};*/
 
-  function createDetailProduct(productId) {
-
-    data_products.products.forEach(product => {
-      if (product.id === productId) {
-        const productFound = product;        
-      }    
-    });
-    const myDiv = document.createElement("div");
-    myDiv.classList.add("inner")
-
-    const articleContainer = document.createElement("h1")
-    articleContainer.textContent = productFound.Info.title
-
-
-    myDiv.appendChild(articleContainer);    
-
-    productFound.images.forEach(myImageUrl => {
-      const mySpan = document.createElement("span")
-      mySpan.classList.add("image main")
-      const productImage = document.createElement("img");
-      productImage.src = myImageUrl;  
-      productImage.style = "width: 60%";
-      productImage.loading = "lazy";
-      mySpan.appendChild(productImage);     
-      myDiv.appendChild(mySpan);
-    });
-    
-    const myDescription = document.createElement("p");
-    myDescription.textContent = productFound.Info.description;
-    
-
-    myDiv.appendChild(myDescription);
-
-    return myDiv;
-  }
-
-   function displayDetailProduct(productId) {
-    const productContainer = document.getElementById("product-detail-container");
-    productContainer.innerHTML = "";
-   
-    const sectionContainer = createDetailProduct(productId);
-    
-    productContainer.appendChild(sectionContainer)
-  }
-
-
-  //document.addEventListener("DOMContentLoaded", function() {
-  //  displayDetailProduct(productId);
-  //});

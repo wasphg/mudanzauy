@@ -2587,10 +2587,10 @@ input, select, textarea {
 		}
 
 			.tiles article > .image {
-				-moz-transition: -moz-transform 0.5s ease;
-				-webkit-transition: -webkit-transform 0.5s ease;
-				-ms-transition: -ms-transform 0.5s ease;
-				transition: transform 0.5s ease;
+				-moz-transition: -moz-transform 0.1s ease;
+				-webkit-transition: -webkit-transform 0.1s ease;
+				-ms-transition: -ms-transform 0.1s ease;
+				transition: transform 0.1s ease;
 				position: relative;
 				display: block;
 				width: 100%;
@@ -2605,10 +2605,10 @@ input, select, textarea {
 
 				.tiles article > .image:before {
 					pointer-events: none;
-					-moz-transition: background-color 0.5s ease, opacity 0.5s ease;
-					-webkit-transition: background-color 0.5s ease, opacity 0.5s ease;
-					-ms-transition: background-color 0.5s ease, opacity 0.5s ease;
-					transition: background-color 0.5s ease, opacity 0.5s ease;
+					-moz-transition: background-color 0.3s ease, opacity 0.3s ease;
+					-webkit-transition: background-color 0.3s ease, opacity 0.3s ease;
+					-ms-transition: background-color 0.3s ease, opacity 0.3s ease;
+					transition: background-color 0.3s ease, opacity 0.3s ease;
 					content: '';
 					display: block;
 					position: absolute;
@@ -2623,10 +2623,10 @@ input, select, textarea {
 
 				.tiles article > .image:after {
 					pointer-events: none;
-					-moz-transition: opacity 0.5s ease;
-					-webkit-transition: opacity 0.5s ease;
-					-ms-transition: opacity 0.5s ease;
-					transition: opacity 0.5s ease;
+					-moz-transition: opacity 0.3s ease;
+					-webkit-transition: opacity 0.3s ease;
+					-ms-transition: opacity 0.3s ease;
+					transition: opacity 0.3s ease;
 					content: '';
 					display: block;
 					position: absolute;
