@@ -97,7 +97,7 @@ const data_products = {
           images: ["images/begonia_maculata_3_1.jpg", "images/begonia_maculata_3_2.jpg","images/begonia_maculata_3_3.jpg", "images/begonia_maculata_3_4.jpg"],
           title: "Begonia Maculata mediana + maceta + tierra",
           description: "Begonia Maculata mediana + maceta + tierra",
-          price: "$1500"
+          price: "$1000"
         }
       }, 
       {
@@ -217,7 +217,7 @@ const data_products = {
           images: ["images/suculenta_1.jpg", "images/suculenta_2.jpg"],
           title: "Suculenta grande + maceta + tierra",
           description: "Suculenta grande + maceta + tierra",
-          price: "$800"
+          price: "$700"
         }
       }
     ]
